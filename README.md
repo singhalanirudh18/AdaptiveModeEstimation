@@ -12,4 +12,5 @@ $ python3 setup.py build_ext --inplace
 After this run the file `main.py` in RandomSampling or SubGaussian to run the AdaptiveModeEstimation algorithm
 
 [1] A. Singhal, S. Pirojiwala, N. Karamchandani, "Query Complexity of k-NN based Mode Estimation", 2020. Under review at ITW 2020. [arXiv](https://arxiv.org/abs/2010.13491)
+
 [2] D. LeJeune, R. Heckel, R. G. Baraniuk, "Adaptive Estimation for Approximate k-Nearest-Neighbor Computations," 2019. AISTATS 2019. [arXiv](https://arxiv.org/abs/1902.09465)
